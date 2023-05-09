@@ -1,0 +1,183 @@
+body {
+    position:relative;
+    width:1024px;
+    height:2879px;
+    background-color:whitesmoke ;
+    font-family: 'Inter', sans-serif;
+}
+img.brioche {
+    position: absolute;
+
+    width: 1024px;
+    
+    height: 613px;
+    
+    margin-left: 0px;
+    
+    margin-top: 0px;
+    
+}
+h1 {
+position:absolute;
+width:868px;
+height:137px;
+margin-left:350px;
+margin-top:0px; 
+font-family: 'Inter', sans-serif;;
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+text-align: center;
+color:white;
+}
+polygon.triangoloverde {
+    position:absolute;
+    width:148px;
+    height:143px;
+  margin-left: 33px;
+   margin-top: 801px;
+    background:green;
+}
+h2 {
+    position:absolute;
+    width: 586px;
+    height: 68px;
+    margin-left: 204px;
+    margin-top: 710px;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: black;
+}
+polygon.rettangolo1 {
+    position:absolute;
+    width:576px;
+    height: 159px;
+    margin-left: 226px;
+    margin-top: 778px;
+    background: gray;
+}
+p.colazioneitaliana {
+    position:absolute;
+    width: 713px;
+    height:213px;
+    margin-left: 240px;
+    margin-top:778px; 
+    font-family:'Inter', sans-serif; ;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 24px;
+    color: black;
+}
+polygon.triangoloblu {
+    position:absolute;
+    width:148px;
+    height:143px;
+   margin-left: 834px;
+   margin-top: 1048px;
+    background:blue;
+}
+h3 {
+    position:absolute;
+    width: 452px;
+    height: 76px;
+    margin-left: 271px;
+    margin-top: 960px;
+    font-family:  'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: black;
+}
+polygon.rettangolo2 {
+    position:absolute;
+    width:761px;
+    height: 163px;
+    margin-left: 51px;
+    margin-top: 1022px;
+    background: gray;
+}
+p.colazioneislandese {
+    position:absolute;
+    width: 760px;
+    height:67px;
+    margin-left: 51px;
+    margin-top:1036px;
+    font-family:  'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 29px;
+    color: black; 
+}
+polygon.triangologiallo {
+    position:absolute;
+    width:149px;
+    height:143px;
+    margin-left:33px;
+    margin-top: 1382px;
+    background:yellow;
+}
+h4 {
+    position:absolute;
+   width: 407px;
+    height: 73px;
+    margin-left: 293px;
+    margin-top: 1230px;
+    font-family:  'Inter', sans-serif;
+    font-style: italic;
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: black; 
+}
+polygon.rettangolo3 {
+    position:absolute;
+    width:734px;
+    height: 110px;
+    margin-left: 205px;
+    margin-top: 1302px;
+    background: gray;
+}
+p.colazioneinglese {
+    position:absolute;
+    width: 713px;
+    height:87px;
+    margin-left: 226px;
+    margin-top:1297px;
+    font-family:  'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 29px;
+    color: black;  
+}
+img.caffè {
+    position:absolute;
+    width:1082px;
+    height:689px;
+    margin-left:0px;
+    margin-top:1586px;
+}
+h5 {
+    position:absolute;
+    width:355px;
+    height:170px;
+    margin-left:659px;
+    margin-top: 1669px;
+    font-family:  'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color:white;
+}
